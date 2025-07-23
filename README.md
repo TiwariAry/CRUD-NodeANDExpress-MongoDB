@@ -188,7 +188,8 @@ Contributions are welcome! Please follow these steps:
 
 ## 📄 License
 
-
+This project is licensed under the [MIT License](https://github.com/TiwariAry/CRUD-NodeANDExpress-MongoDB/blob/main/LICENSE).<br/>
+Feel free to use, modify, and distribute as needed.
 
 ---
 
